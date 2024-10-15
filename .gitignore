@@ -87,7 +87,6 @@ Thumbs.db
 
 # Anaconda
 *.conda
-*.ipynb
 *.nbconvert/
 
 
